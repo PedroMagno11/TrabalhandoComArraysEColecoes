@@ -1,0 +1,14 @@
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\TrabalhandoComArraysEColecoes\TrabalhandoComArraysEColecoes\bin\Debug\net6.0\TrabalhandoComArraysEColecoes.exe
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\TrabalhandoComArraysEColecoes\TrabalhandoComArraysEColecoes\bin\Debug\net6.0\TrabalhandoComArraysEColecoes.deps.json
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\TrabalhandoComArraysEColecoes\TrabalhandoComArraysEColecoes\bin\Debug\net6.0\TrabalhandoComArraysEColecoes.runtimeconfig.json
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\TrabalhandoComArraysEColecoes\TrabalhandoComArraysEColecoes\bin\Debug\net6.0\TrabalhandoComArraysEColecoes.dll
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\TrabalhandoComArraysEColecoes\TrabalhandoComArraysEColecoes\bin\Debug\net6.0\TrabalhandoComArraysEColecoes.pdb
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\TrabalhandoComArraysEColecoes\TrabalhandoComArraysEColecoes\obj\Debug\net6.0\TrabalhandoComArraysEColecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\TrabalhandoComArraysEColecoes\TrabalhandoComArraysEColecoes\obj\Debug\net6.0\TrabalhandoComArraysEColecoes.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\TrabalhandoComArraysEColecoes\TrabalhandoComArraysEColecoes\obj\Debug\net6.0\TrabalhandoComArraysEColecoes.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\TrabalhandoComArraysEColecoes\TrabalhandoComArraysEColecoes\obj\Debug\net6.0\TrabalhandoComArraysEColecoes.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\TrabalhandoComArraysEColecoes\TrabalhandoComArraysEColecoes\obj\Debug\net6.0\TrabalhandoComArraysEColecoes.dll
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\TrabalhandoComArraysEColecoes\TrabalhandoComArraysEColecoes\obj\Debug\net6.0\refint\TrabalhandoComArraysEColecoes.dll
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\TrabalhandoComArraysEColecoes\TrabalhandoComArraysEColecoes\obj\Debug\net6.0\TrabalhandoComArraysEColecoes.pdb
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\TrabalhandoComArraysEColecoes\TrabalhandoComArraysEColecoes\obj\Debug\net6.0\TrabalhandoComArraysEColecoes.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Documentos\Ambiente-de-Desenvolvimento\Aplicações Dotnet\TrabalhandoComArraysEColecoes\TrabalhandoComArraysEColecoes\obj\Debug\net6.0\ref\TrabalhandoComArraysEColecoes.dll
